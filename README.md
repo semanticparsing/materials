@@ -8,3 +8,6 @@
 
 ### 3. The Proper Treatment of Quantification in Ordinary English
 * [http://www.cs.rhul.ac.uk/~zhaohui/montague73.pdf](http://www.cs.rhul.ac.uk/~zhaohui/montague73.pdf)
+
+### 4. Combinatory Categorial Grammar: An Introduction
+* [https://lsa2017.uky.edu/combinatory-categorial-grammar-introduction](https://lsa2017.uky.edu/combinatory-categorial-grammar-introduction)
