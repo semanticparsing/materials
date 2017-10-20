@@ -5,3 +5,6 @@
 
 ### 2. Montague Grammar
 * [http://www-personal.umich.edu/~akao/MontagueGrammar.pdf](http://www-personal.umich.edu/~akao/MontagueGrammar.pdf)
+
+### 3. The Proper Treatment of Quantification in Ordinary English
+* [http://www.cs.rhul.ac.uk/~zhaohui/montague73.pdf](http://www.cs.rhul.ac.uk/~zhaohui/montague73.pdf)
