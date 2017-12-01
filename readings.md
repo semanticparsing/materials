@@ -8,6 +8,12 @@
 * [http://www.unicode.org/reports/tr29/](http://www.unicode.org/reports/tr29/)
 > UNICODE TEXT SEGMENTATION
 
+## Information Extraction TODO
+* [Identifying civilians killed by police with distantly supervised entity-event extraction. - EMNLP2017](https://arxiv.org/pdf/1707.07086.pdf)
+  - [Project website](http://slanglab.cs.umass.edu/PoliceKillingsExtraction/)
+  - [Codes](https://github.com/slanglab/policefatalities_emnlp2017)
+  - [Fatal Encounters](http://www.fatalencounters.org/) crowdsourced project
+  
 ## AI商业体系
 * [Understanding the Differences Between Alexa, API.ai, WIT.ai, and LUIS/Cortana](https://medium.com/@abraham.kang/understanding-the-differences-between-alexa-api-ai-wit-ai-and-luis-cortana-2404ece0977c)
 * [从api.ai工作原理来看构建简单场景chatbot的一般方法](http://rsarxiv.github.io/2016/08/21/%E4%BB%8Eapi-ai%E5%B7%A5%E4%BD%9C%E5%8E%9F%E7%90%86%E6%9D%A5%E7%9C%8B%E6%9E%84%E5%BB%BA%E7%AE%80%E5%8D%95%E5%9C%BA%E6%99%AFchatbot%E7%9A%84%E4%B8%80%E8%88%AC%E6%96%B9%E6%B3%95/)
