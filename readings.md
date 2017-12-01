@@ -9,6 +9,7 @@
 
 ## Information Extraction TODO
 * [Identifying civilians killed by police with distantly supervised entity-event extraction. - EMNLP2017](https://arxiv.org/pdf/1707.07086.pdf)
+  - [Sildes](http://slanglab.cs.umass.edu/PoliceKillingsExtraction/kkeith_emnlp2017.pdf)
   - [Project website](http://slanglab.cs.umass.edu/PoliceKillingsExtraction/)
   - [Codes](https://github.com/slanglab/policefatalities_emnlp2017)
   - [Fatal Encounters](http://www.fatalencounters.org/) crowdsourced project
