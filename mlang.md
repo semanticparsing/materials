@@ -13,3 +13,4 @@
 * [欧拉蜜OSL语法描述语言](https://cn.olami.ai/wiki/?mp=osl&content=osl1.html)
 * [Augmented BNF for Syntax Specifications: ABNF](http://www.ietf.org/rfc/rfc2234.txt)
 * [百度理解与交互技术UNIT](http://ai.baidu.com/tech/unit)
+* [阿里巴巴语音开发者平台AliGenie](https://open.bot.tmall.com/)
