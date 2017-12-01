@@ -12,3 +12,4 @@
 * [科大讯飞abnf文法规范](http://open.linglongtech.com/openweb/static/download/ABNF_open1.1.pdf)
 * [欧拉蜜OSL语法描述语言](https://cn.olami.ai/wiki/?mp=osl&content=osl1.html)
 * [Augmented BNF for Syntax Specifications: ABNF](http://www.ietf.org/rfc/rfc2234.txt)
+* [百度理解与交互技术UNIT](http://ai.baidu.com/tech/unit)
