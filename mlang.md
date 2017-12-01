@@ -14,3 +14,4 @@
 * [Augmented BNF for Syntax Specifications: ABNF](http://www.ietf.org/rfc/rfc2234.txt)
 * [百度理解与交互技术UNIT](http://ai.baidu.com/tech/unit)
 * [阿里巴巴语音开发者平台AliGenie](https://open.bot.tmall.com/)
+* [Microsoft: Language Understanding Inteligent Service (LUIS)](https://docs.microsoft.com/en-us/azure/cognitive-services/LUIS/Home)
