@@ -1,4 +1,4 @@
-## Semantic Parsing TODO
+## Semantic Parsing Papers to Read
 * [Learning Semantic Correspondences in Technical Documentation - ACL2017](http://aclweb.org/anthology/P/P17/P17-1148.pdf)
   - 自然语言文本到编程语言函数的映射
   - [代码](https://github.com/yakazimir/zubr_public)
@@ -7,7 +7,7 @@
   - UNICODE TEXT SEGMENTATION
   - [implementation in golang](https://github.com/liuzl/mling)
 
-## Information Extraction TODO
+## Information Extraction Papers to Read
 * [Identifying civilians killed by police with distantly supervised entity-event extraction. - EMNLP2017](https://arxiv.org/pdf/1707.07086.pdf)
   - [Sildes](http://slanglab.cs.umass.edu/PoliceKillingsExtraction/kkeith_emnlp2017.pdf)
   - [Project website](http://slanglab.cs.umass.edu/PoliceKillingsExtraction/)
