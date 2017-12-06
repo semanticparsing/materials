@@ -16,6 +16,9 @@
   - [Project website](http://slanglab.cs.umass.edu/PoliceKillingsExtraction/)
   - [Codes](https://github.com/slanglab/policefatalities_emnlp2017)
   - [Fatal Encounters](http://www.fatalencounters.org/) crowdsourced project
+* [Joint Learning of Structural and Textual Features for Web Scale Event Extraction](https://www.cs.ox.ac.uk/files/8846/aaai17-wiedmann-eventextraction.pdf)
+  - AAAI2017
+  - CommonCrawl data
   
 ## AI商业体系
 * [Understanding the Differences Between Alexa, API.ai, WIT.ai, and LUIS/Cortana](https://medium.com/@abraham.kang/understanding-the-differences-between-alexa-api-ai-wit-ai-and-luis-cortana-2404ece0977c)
