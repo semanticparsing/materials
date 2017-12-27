@@ -1,3 +1,3 @@
 ## Online courses
 
-* [Overview of NLP: Issues and Strategies](http://www.bowdoin.edu/~allen/nlp/nlp1.html)
+* [Notes on Natural Language Processing (NLP)](http://www.bowdoin.edu/~allen/nlp/), Allen B. Tucker, February, 2002
