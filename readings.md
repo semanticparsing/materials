@@ -10,6 +10,7 @@
   - UNICODE TEXT SEGMENTATION
   - [implementation in golang](https://github.com/liuzl/mling)
 * [http://www.lsi.upc.edu/~ageno/anlp/semanticParsing.pdf](http://www.lsi.upc.edu/~ageno/anlp/semanticParsing.pdf)
+* [Semantic Parsing and Information Extraction](https://gul.gu.se/public/pp/public_courses/course77646/published/1502875291909/resourceId/38235285/content/UploadedResources/semantic-paring-and-IE-l1-1.pdf)
 
 ## Information Extraction Papers to Read
 * [Identifying civilians killed by police with distantly supervised entity-event extraction](https://arxiv.org/pdf/1707.07086.pdf). - EMNLP2017
