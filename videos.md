@@ -11,3 +11,6 @@
       - distributional hypothesis: semantically similar words occur in similar contexts [Harris, 1954].
       - "You shall know a word by the company it keeps." [Firth, 1957]
     - Frame semantics: meaning given by a frame, a stereotypical situation
+
+## 2018
+* [AAAI2018 Invited Talk: How Should We Evaluate Machine Learning for AI? Percy Liang](https://vimeo.com/channels/aaai2018/254753266)
