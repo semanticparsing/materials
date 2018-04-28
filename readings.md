@@ -1,3 +1,5 @@
+## https://web.stanford.edu/class/cs224u/materials/cs224u-2016-intro-semparse.pdf
+
 ## [EMNLP2017](http://emnlp2017.net/accepted-papers.html)
 ## [ACL2017](https://acl2017.wordpress.com/2017/04/05/accepted-papers-and-demonstrations/)
 
